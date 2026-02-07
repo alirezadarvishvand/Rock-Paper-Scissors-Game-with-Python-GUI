@@ -17,3 +17,5 @@ This is a simple Rock-Paper-Scissors game built with Python using Tkinter for th
 
 ### روش اجرا
 1. اطمینان حاصل کنید که Python 3.x و Tkinter نصب شده‌اند.
+### Screenshot
+![Game Screenshot](screenshot.png)
